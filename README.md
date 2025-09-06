@@ -10,7 +10,7 @@ See the transformation power of AWS Textract combined with LLM processing:
 
 ### Original PDF Invoice
 **Input**: `invoices/sample_invoice.pdf`
-![Sample Invoice PDF](invoices/invoice3.png)
+![Sample Invoice PDF](invoices/invoice_03.png)
 
 ### Markdown Output
 **Generated Report**: `markdowns/invoice 03.md`
