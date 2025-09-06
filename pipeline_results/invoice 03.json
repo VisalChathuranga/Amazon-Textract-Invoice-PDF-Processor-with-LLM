@@ -1,0 +1,17 @@
+{
+    "invoice_number": "INV-3337",
+    "invoice_date": "25/01/2016",
+    "invoice_total": 93.5,
+    "currency": "$",
+    "line_items": [
+        {
+            "description": "Web Design This is a sample description.",
+            "quantity": 1.0,
+            "unit_price": 85.0,
+            "amount": 85.0
+        }
+    ],
+    "payment_terms": "Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month.",
+    "extraction_confidence": "high",
+    "source_file": "invoice 03.pdf"
+}

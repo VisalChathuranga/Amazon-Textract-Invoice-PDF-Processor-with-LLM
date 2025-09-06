@@ -1,0 +1,35 @@
+{
+    "invoice_number": "5601RF",
+    "invoice_date": "05/10/2024",
+    "invoice_total": 2327.85,
+    "currency": "$",
+    "line_items": [
+        {
+            "description": "Review corporate laws on Site Planning in regards to consultative request from G. Milner.",
+            "quantity": 0.5,
+            "unit_price": 880.0,
+            "amount": 440.0
+        },
+        {
+            "description": "Call with Janet Lee on M&A strategy for Q4 2024",
+            "quantity": 0.3,
+            "unit_price": 880.0,
+            "amount": 264.0
+        },
+        {
+            "description": "Drafted documentation for site coordinators NDA",
+            "quantity": 0.5,
+            "unit_price": "1,125.0 0",
+            "amount": 562.5
+        },
+        {
+            "description": "Prepare summary of potential considerations regarding Commercial Zoning options within city and county.",
+            "quantity": 1.5,
+            "unit_price": 880.0,
+            "amount": 1320.0
+        }
+    ],
+    "payment_terms": null,
+    "extraction_confidence": "high",
+    "source_file": "invoice 05.pdf"
+}
