@@ -1,0 +1,23 @@
+{
+    "invoice_number": "INV00295",
+    "invoice_date": "28/04/2025",
+    "invoice_total": 252500.0,
+    "currency": "LKR",
+    "line_items": [
+        {
+            "description": "Content plan: -Main hemas page Includes editing, designing of the content and posting to timelines as per the content calendar schedule.",
+            "quantity": null,
+            "unit_price": null,
+            "amount": 240000.0
+        },
+        {
+            "description": "2,500 X 5 for extra designed statics",
+            "quantity": null,
+            "unit_price": null,
+            "amount": 12500.0
+        }
+    ],
+    "payment_terms": "N/A",
+    "extraction_confidence": "high",
+    "source_file": "invoice 01_NEW.pdf"
+}

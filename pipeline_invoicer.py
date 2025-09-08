@@ -289,14 +289,14 @@ Respond with ONLY valid JSON in this exact format:
 {{
   "invoice_number": "extracted value or null",
   "invoice_date": "extracted value or null",
-  "invoice_total": "total amount",
-  "currency": "...",
+  "invoice_total": "total amount (with currency)",
+  "currency": "currency symbol",
   "line_items": [
     {{
       "description": "item description",
       "quantity": "quantity",
-      "unit_price": "price per unit",
-      "amount": "line total"
+      "unit_price": "price per unit (with currency)",
+      "amount": "line total (with currency)"
     }}
   ],  
   "payment_terms": "payment terms or null",

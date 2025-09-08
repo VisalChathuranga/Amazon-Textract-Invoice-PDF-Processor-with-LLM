@@ -1,0 +1,17 @@
+{
+    "invoice_number": "28123",
+    "invoice_date": "18/10/2023",
+    "invoice_total": 8000.0,
+    "currency": "$",
+    "line_items": [
+        {
+            "description": "City Apparel website development based on Shopify and Kit Builder plugin and based on the provided sitemap. One internet payment gateway and one shipping module will be integrated.",
+            "quantity": 1.0,
+            "unit_price": 8000.0,
+            "amount": 8000.0
+        }
+    ],
+    "payment_terms": "All prices quoted are Australian Dollars (AUD) unless specified in other currencies. Please note that images will be obtained from the Figma design. The client is to provide all the necessary content before the commencement of the project in the form of Figma design source file, Shopify template source code, template license code, text, images, documents, videos, Kit Builder plugin with account, Shopify paid account, any other necessary plugins, etc. There will be an additional charge if there is a scope other than what we have agreed on in the quotation, and the sitemap, as well as 20 products, will be uploaded to the site. Product customization will be available based on the Kit Builder platform options and features. The remaining 50% payment from the quoted estimate will be made within 05 days of the go-live date.",
+    "extraction_confidence": "high",
+    "source_file": "invoice 02_NEW.pdf"
+}

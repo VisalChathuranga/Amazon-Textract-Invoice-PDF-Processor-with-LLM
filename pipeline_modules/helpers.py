@@ -17,7 +17,7 @@ def extract_currency_symbol(value):
     """Extract the first recognized currency symbol from a string."""
     if not isinstance(value, str):
         return None
-    symbols = ['$', '€', '£', '¥', '₹']
+    symbols = ['$', '€', '£', '¥', '₹','LKR','AUD']
     for symbol in symbols:
         if symbol in value:
             return symbol
@@ -29,7 +29,7 @@ def normalize_currency(value):
         return value
 
     # Remove currency symbols
-    currency_symbols = ['$', '€', '£', '¥', '₹']
+    currency_symbols = ['$', '€', '£', '¥', '₹', 'LKR', 'AUD']
     cleaned = value
     for symbol in currency_symbols:
         cleaned = cleaned.replace(symbol, '')
