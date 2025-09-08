@@ -266,9 +266,9 @@ The processed results will be automatically saved to:
 - **Currency**: USD
 
 ## Line Items
-| Description | Quantity | Unit Price | Amount |
-|-------------|----------|------------|--------|
-| Professional Services | 10 | $125.00 | $1,250.00 |
+| Description           | Quantity | Unit Price | Amount    |
+|-----------------------|----------|------------|-----------|
+| Professional Services |   10     | $125.00    | $1,250.00 |
 ```
 
 ---
